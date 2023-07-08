@@ -18,7 +18,7 @@
 #### Top Repositories
 
 <a href="https://github.com/nam29052002/BTL-LAP-TRINH-WEB-PTIT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lazygarde&theme=tokyonight&border_color=B57EDC&repo=BTL-LAP-TRINH-WEB-PTIT" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nam29052002&theme=tokyonight&border_color=B57EDC&repo=BTL-LAP-TRINH-WEB-PTIT" />
 </a>
 
 ---
