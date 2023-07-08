@@ -1,5 +1,5 @@
 
-[![Nam's GitHub stars](https://github-readme-stats.vercel.app/api?username=29052002&hide=issues&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/nam29052002)  
+[![Nam's GitHub stars](https://github-readme-stats.vercel.app/api?username=Nguyễn Ngọc Nam&hide=issues&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/nam29052002)  
 
 ---
 
